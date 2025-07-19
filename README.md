@@ -6,6 +6,12 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Security](https://img.shields.io/badge/Security-Focused-red.svg)](#)
 [![GUI](https://img.shields.io/badge/GUI-Tkinter-orange.svg)](#)
+
+
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/459c6714-0461-4e87-8622-894d2126cf31" />
+<img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/f2b22743-8a59-4911-8b1c-b2462164ee5e" />
+<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/edeecc2c-f5e2-443b-b2c0-073d62cc12c9" />
+<img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/fb437db9-c781-48cb-b67b-907406a03210" />
 <img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/1fc2f549-5a1a-4e52-a654-2724787917bf" />
 <img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/b522f124-6f4b-4770-8e28-4be140298ab5" />
 
@@ -17,10 +23,7 @@
 
 This isn't just another data visualization tool - it's a **game-changer** for cybersecurity professionals! Convert messy log files, attack data, and security reports into beautiful, interactive charts with just a few clicks.
 
-<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/459c6714-0461-4e87-8622-894d2126cf31" />
-<img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/f2b22743-8a59-4911-8b1c-b2462164ee5e" />
-<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/edeecc2c-f5e2-443b-b2c0-073d62cc12c9" />
-<img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/fb437db9-c781-48cb-b67b-907406a03210" />
+
 
 
 
