@@ -237,7 +237,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/cybersecurity-text-to-plot&type=Date)](https://star-history.com/#yourusername/cybersecurity-text-to-plot&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Naveen-21-Cyber/Cyber-Security--Data-Visualization-Tool/&type=Date)](https://star-history.com/Naveen-21-Cyber/Cyber-Security--Data-Visualization-Tool)
 
 ## 🎉 Acknowledgments
 
